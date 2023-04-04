@@ -1,6 +1,7 @@
 .vscode
 go.sum
 test.db
+.env
 
 .idea
 frontend/.DS_Store

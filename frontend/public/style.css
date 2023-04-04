@@ -1,0 +1,20 @@
+body {
+    background-color: whitesmoke;
+}
+
+.main {
+    background-color: white;
+    min-height: 100vh;
+    height: max-content;
+}
+.process-list{
+    height: 200px;
+    overflow: auto;
+}
+.processes {
+    height: 70vh;
+    overflow: auto;
+}
+.list-group-item {
+    text-align: left;
+}
